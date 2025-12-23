@@ -16,8 +16,8 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "spyd3r98_RxJava"
-    property "sonar.organization", "spyd3r98"
+    property "sonar.projectKey", "vcatest_RxJava"
+    property "sonar.organization", "vcatest"
   }
 }
 
